@@ -15,7 +15,7 @@
   <a href="mailto:sierekjulia@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Email-sierekjulia%40gmail.com-ff6f9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/jsi3r3k" title="Visit my LinkedIn profile">
+  <a href="https://www.linkedin.com/in/julia-sierek-41a615316/" title="Visit my LinkedIn profile">
     <img src="https://img.shields.io/badge/LinkedIn-jsi3r3k-ff6f9f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/jsi3r3k" title="Visit my GitHub profile">
