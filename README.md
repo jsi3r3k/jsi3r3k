@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Zmień ścieżkę, jeśli Twój górny baner ma inną nazwę -->
-<img src="./assets/header-banner.png" alt="Hi, I'm Julia — Python Backend and AI Developer" width="100%" />
+<img src="./assets/header.png" alt="Hi, I'm Julia — Python Backend and AI Developer" width="100%" />
 
 <br/>
 
@@ -165,11 +164,6 @@ Automation system for generating YouTube Shorts and long-form videos. Supports w
 
 ## 📊 GitHub stats
 
-<!--
-Karty pobierają dane dynamicznie z publicznego profilu jsi3r3k.
-Parametr include_all_commits=true uwzględnia commity ze wszystkich lat.
--->
-
 <div align="center">
 
 <a href="https://github.com/jsi3r3k" title="Open Julia's GitHub profile">
@@ -211,7 +205,6 @@ Parametr include_all_commits=true uwzględnia commity ze wszystkich lat.
 
 <br/><br/>
 
-<!-- Zmień ścieżkę, jeśli Twój dolny baner ma inną nazwę -->
-<img src="./assets/footer-banner.png" alt="Japanese pixel art landscape" width="100%" />
+<img src="./assets/footer.png" alt="Japanese pixel art landscape" width="100%" />
 
 </div>
