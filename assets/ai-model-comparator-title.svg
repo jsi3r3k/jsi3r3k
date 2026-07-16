@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="42" viewBox="0 0 360 42" role="img" aria-labelledby="title">
+  <title id="title">AI Model Comparator</title>
+  <text
+    x="0"
+    y="29"
+    fill="#FF78A8"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace"
+    font-size="22"
+    font-weight="700"
+    letter-spacing="0.2">
+    AI Model Comparator
+  </text>
+</svg>
