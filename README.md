@@ -4,8 +4,6 @@
 
 <br/>
 
-# Hi, I'm Julia 👋
-
 ### Python Backend Developer • AI Applications • Automation
 
 <p>
@@ -167,10 +165,18 @@ Automation system for generating YouTube Shorts and long-form videos. Supports w
 <div align="center">
 
 <a href="https://github.com/jsi3r3k" title="Open Julia's GitHub profile">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jsi3r3k&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF78A8&text_color=E6EDF3&icon_color=FF78A8&ring_color=FF78A8&rank_icon=github" alt="Julia's GitHub statistics" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsi3r3k&theme=radical"
+    alt="Julia's GitHub statistics"
+  />
 </a>
 <a href="https://github.com/jsi3r3k?tab=repositories" title="Open Julia's repositories">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsi3r3k&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF78A8&text_color=E6EDF3&icon_color=FF78A8&hide=jupyter%20notebook" alt="Julia's most used languages" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsi3r3k&theme=radical"
+    alt="Julia's most used languages"
+  />
 </a>
 
 <br/>
