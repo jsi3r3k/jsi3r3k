@@ -177,11 +177,15 @@ Automation system for generating YouTube Shorts and long-form videos. Supports t
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/jsi3r3k/ai-model-comparator">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-%E2%86%92-FF6F9F?style=for-the-badge&logo=github&logoColor=white&labelColor=171725" alt="View AI Model Comparator"/>
-</a>
+<img
+  src="./assets/ai-model-comparator-title.svg"
+  alt="AI Model Comparator"
+/>
 
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F5C265?style=for-the-badge&labelColor=171725" alt="In progress"/>
+<img
+  src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F5C265?style=for-the-badge&labelColor=171725"
+  alt="In progress"
+/>
 
 Application for comparing AI model responses using the same prompts. Designed to evaluate output quality, response time, token usage and estimated API costs.
 
@@ -189,7 +193,10 @@ Application for comparing AI model responses using the same prompts. Designed to
 
 <br/>
 
-<img src="https://img.shields.io/badge/REPOSITORY-COMING%20SOON-FF6F9F?style=for-the-badge&logo=github&logoColor=white&labelColor=171725" alt="Repository coming soon"/>
+<img
+  src="https://img.shields.io/badge/REPOSITORY-COMING%20SOON-FF6F9F?style=for-the-badge&logo=github&logoColor=white&labelColor=171725"
+  alt="Repository coming soon"
+/>
 
 </td>
 
