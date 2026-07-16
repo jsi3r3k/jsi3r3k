@@ -119,24 +119,32 @@ Cały główny stack pozostaje w jednym rzędzie.
 <tr>
 <td width="50%" valign="top">
 
-### [AI Cost-Aware Prompt Playground](https://github.com/jsi3r3k/ai-cost-aware-prompt-playground)
+<a href="https://github.com/jsi3r3k/ai-cost-aware-prompt-playground">
+  <img src="./assets/cost-aware-title.svg" alt="AI Cost-Aware Prompt Playground" />
+</a>
 
 Application for testing and comparing LLM prompts, counting tokens, estimating API costs, storing prompt history and evaluating AI responses.
 
 `Python` · `FastAPI` · `Streamlit` · `SQLite` · `Pydantic` · `pytest` · `OpenRouter API`
 
-[**View repository →**](https://github.com/jsi3r3k/ai-cost-aware-prompt-playground)
+<a href="https://github.com/jsi3r3k/ai-cost-aware-prompt-playground">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-%E2%86%92-FF6F9F?style=for-the-badge&logo=github&logoColor=white&labelColor=171725" alt="View repository"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### [AI Prompt Attack Detector](https://github.com/jsi3r3k/ai-prompt-attack-detector)
+<a href="https://github.com/jsi3r3k/ai-prompt-attack-detector">
+  <img src="./assets/prompt-detector-title.svg" alt="AI Prompt Attack Detector" />
+</a>
 
 AI safety project for detecting prompt-injection attempts and suspicious instructions before they reach an LLM.
 
 `Python` · `Pydantic` · `pytest` · `Prompt Engineering` · `Input Validation`
 
-[**View repository →**](https://github.com/jsi3r3k/ai-prompt-attack-detector)
+<a href="https://github.com/jsi3r3k/ai-prompt-attack-detector">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-%E2%86%92-FF6F9F?style=for-the-badge&logo=github&logoColor=white&labelColor=171725" alt="View repository"/>
+</a>
 
 </td>
 </tr>
@@ -146,17 +154,45 @@ AI safety project for detecting prompt-injection attempts and suspicious instruc
 
 <table>
 <tr>
-<td width="100%" valign="top">
 
-### [YouTube AI Manager](https://github.com/jsi3r3k/youtube-ai-manager)
+<td width="50%" valign="top">
 
-Automation system for generating YouTube Shorts and long-form videos. Supports workflow from topic generation and idea selection to script creation and storing unused concepts for future videos.
+<a href="https://github.com/jsi3r3k/youtube-ai-manager">
+  <img src="./assets/youtube-manager-title.svg" alt="YouTube AI Manager" />
+</a>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F5C265?style=for-the-badge&labelColor=171725" alt="In progress"/>
+
+Automation system for generating YouTube Shorts and long-form videos. Supports the workflow from topic generation and idea selection to script creation and storing unused concepts for future videos.
 
 `Python` · `LLM APIs` · `Automation` · `Content Generation` · `Database`
 
-[**View repository →**](https://github.com/jsi3r3k/youtube-ai-manager)
+<br/>
+
+<a href="https://github.com/jsi3r3k/youtube-ai-manager">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-%E2%86%92-FF6F9F?style=for-the-badge&logo=github&logoColor=white&labelColor=171725" alt="View YouTube AI Manager"/>
+</a>
 
 </td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/jsi3r3k/ai-model-comparator">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-%E2%86%92-FF6F9F?style=for-the-badge&logo=github&logoColor=white&labelColor=171725" alt="View AI Model Comparator"/>
+</a>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F5C265?style=for-the-badge&labelColor=171725" alt="In progress"/>
+
+Application for comparing AI model responses using the same prompts. Designed to evaluate output quality, response time, token usage and estimated API costs.
+
+`Python` · `LLM APIs` · `Model Evaluation` · `Token Tracking` · `Cost Analysis`
+
+<br/>
+
+<img src="https://img.shields.io/badge/REPOSITORY-COMING%20SOON-FF6F9F?style=for-the-badge&logo=github&logoColor=white&labelColor=171725" alt="Repository coming soon"/>
+
+</td>
+
 </tr>
 </table>
 
