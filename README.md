@@ -13,13 +13,15 @@
 
 <p>
   <a href="mailto:sierekjulia@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Email-sierekjulia%40gmail.com-ff6f9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-1d222c?style=for-the-badge&logo=gmail&logoColor=ff75ad" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/julia-sierek-41a615316/" title="Visit my LinkedIn profile">
-    <img src="https://img.shields.io/badge/LinkedIn-jsi3r3k-ff6f9f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-1d222c?style=for-the-badge&logo=linkedin&logoColor=ff75ad" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/jsi3r3k" title="Visit my GitHub profile">
-    <img src="https://img.shields.io/badge/GitHub-jsi3r3k-ff6f9f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-1d222c?style=for-the-badge&logo=github&logoColor=ff75ad" alt="GitHub" />
   </a>
 </p>
 
@@ -59,9 +61,9 @@ I'm especially interested in backend systems, API integrations, AI safety and ap
 
 <p>
   <img
-  src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,sqlite,firebase,docker,git,github,githubactions,react,ts,js,html,css,php,laravel,cs,pytorch,sklearn,linux,bash,vscode,visualstudio,pycharm,figma,postman,anaconda,npm&theme=dark&perline=15"
-  alt="Tools and technologies"
-/>
+    src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,sqlite,firebase,docker,git,github,githubactions,react,ts,js,html,css,php,laravel,cs,pytorch,sklearn,linux,bash,vscode,visualstudio,pycharm,figma,postman,anaconda,npm&theme=dark&perline=15"
+    alt="Tools and technologies"
+  />
 </p>
 
 ## 🚀 Projects
@@ -173,6 +175,7 @@ Application for comparing AI model responses using the same prompts. Designed to
 </a>
 
 </div>
+
 ---
 
 <div align="center">
@@ -180,7 +183,7 @@ Application for comparing AI model responses using the same prompts. Designed to
 ### Let's build something amazing together ✨
 
 <a href="mailto:sierekjulia@gmail.com" title="Contact me">
-  <img src="https://img.shields.io/badge/Contact_me-sierekjulia%40gmail.com-ff6f9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Julia" />
+  <img src="https://img.shields.io/badge/CONTACT%20ME-1d222c?style=for-the-badge&logo=gmail&logoColor=ff75ad" alt="Contact Julia" />
 </a>
 
 <br/><br/>
