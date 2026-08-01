@@ -57,58 +57,11 @@ I'm especially interested in backend systems, API integrations, AI safety and ap
 
 ## 🛠️ Tech stack
 
-<!--
-GitHub nie pozwala dodać własnego CSS do README.
-Efekt hover jest realizowany przez linki i podpowiedzi title.
-Cały główny stack pozostaje w jednym rzędzie.
--->
-
-<p align="center">
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://img.shields.io/badge/Python-111820?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
-    <img src="https://img.shields.io/badge/FastAPI-111820?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="FastAPI" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" title="Flask">
-    <img src="https://img.shields.io/badge/Flask-111820?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  </a>
-  <a href="https://www.postgresql.org/" title="SQL and PostgreSQL">
-    <img src="https://img.shields.io/badge/SQL-111820?style=for-the-badge&logo=postgresql&logoColor=5AA9E6" alt="SQL" />
-  </a>
-  <a href="https://www.sqlite.org/" title="SQLite">
-    <img src="https://img.shields.io/badge/SQLite-111820?style=for-the-badge&logo=sqlite&logoColor=62B0E8" alt="SQLite" />
-  </a>
-  <a href="https://docs.pydantic.dev/" title="Pydantic">
-    <img src="https://img.shields.io/badge/Pydantic-111820?style=for-the-badge&logo=pydantic&logoColor=E92063" alt="Pydantic" />
-  </a>
-  <a href="https://docs.pytest.org/" title="pytest">
-    <img src="https://img.shields.io/badge/pytest-111820?style=for-the-badge&logo=pytest&logoColor=7DB44C" alt="pytest" />
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://img.shields.io/badge/Git-111820?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://img.shields.io/badge/Docker-111820?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  </a>
-  <a href="https://react.dev/" title="React">
-    <img src="https://img.shields.io/badge/React-111820?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://platform.openai.com/docs/" title="LLM APIs">
-    <img src="https://img.shields.io/badge/LLM_APIs-111820?style=for-the-badge&logo=openai&logoColor=FF78A8" alt="LLM APIs" />
-  </a>
-  <a href="https://github.com/features/actions" title="Automation">
-    <img src="https://img.shields.io/badge/Automation-111820?style=for-the-badge&logo=githubactions&logoColor=FF78A8" alt="Automation" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-161B22?style=flat-square&logo=pandas&logoColor=E96D9E" alt="pandas" title="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=E96D9E" alt="NumPy" title="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=E96D9E" alt="scikit-learn" title="scikit-learn" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat-square&logo=openai&logoColor=E96D9E" alt="Prompt Engineering" title="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=fastapi&logoColor=E96D9E" alt="REST APIs" title="REST APIs" />
-  <img src="https://img.shields.io/badge/AI_Safety-161B22?style=flat-square&logo=probot&logoColor=E96D9E" alt="AI Safety" title="AI Safety" />
+<p>
+  <img
+  src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,sqlite,firebase,docker,git,github,githubactions,react,ts,js,html,css,php,laravel,cs,pytorch,sklearn,linux,bash,vscode,visualstudio,pycharm,figma,postman,anaconda,npm&theme=dark&perline=15"
+  alt="Tools and technologies"
+/>
 </p>
 
 ## 🚀 Projects
@@ -207,21 +160,6 @@ Application for comparing AI model responses using the same prompts. Designed to
 
 <div align="center">
 
-<a href="https://github.com/jsi3r3k" title="Open Julia's GitHub profile">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsi3r3k&theme=radical"
-    alt="Julia's GitHub statistics"
-  />
-</a>
-<a href="https://github.com/jsi3r3k?tab=repositories" title="Open Julia's repositories">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsi3r3k&theme=radical"
-    alt="Julia's most used languages"
-  />
-</a>
-
 <br/>
 
 <a href="https://github.com/jsi3r3k" title="View contribution activity">
@@ -235,13 +173,6 @@ Application for comparing AI model responses using the same prompts. Designed to
 </a>
 
 </div>
-
-## 🧰 Tools & technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,sqlite,docker,git,github,githubactions,react,js,ts,html,css,firebase,linux,bash,vscode,figma&theme=dark&perline=19" alt="Tools and technologies" />
-</p>
-
 ---
 
 <div align="center">
